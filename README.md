@@ -102,5 +102,3 @@ This repository contains my solutions and notes from the **100 Days of MLOps** c
 98. Day 98: Capstone (2/4): Monitoring and Automated Retraining
 99. Day 99: Capstone (3/4): Orchestrate the Full MLOps Loop with Argo Workflows
 100. Day 100: Capstone (4/4): Close the Loop with Prometheus + Grafana Observability
-
-**Keywords:** 100 Days of MLOps, KodeKloud, MLOps challenges, Docker, Kubernetes, MLflow, Kubeflow, DVC, GitOps, CloudWatch, ArgoCD, MLOPs, CloudOps, ML-Engineering, Machine-Learning-Engineering, CI-CD, MLOps-Pipeline
